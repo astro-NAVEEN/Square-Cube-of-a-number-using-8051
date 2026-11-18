@@ -1,6 +1,6 @@
-NAME : NAVEEN V
+## NAME : NAVEEN V
 
-REG NO : 212225060181
+## REG NO : 212225060181
 
 # Square-Cube-of-a-number-using-8051
 # 8051 Square  Program
