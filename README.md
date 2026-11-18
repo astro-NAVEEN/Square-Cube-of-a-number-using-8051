@@ -1,3 +1,6 @@
+NAME : NAVEEN V
+REG NO : 212225060181
+
 # Square-Cube-of-a-number-using-8051
 # 8051 Square  Program
 
@@ -15,19 +18,14 @@ To write and execute an Assembly language program for finding the square of a gi
 4. The output square value is stored in Port 2 (P2).
 
 ## PROGRAM
-```
 
+<img width="610" height="578" alt="image" src="https://github.com/user-attachments/assets/c6195d51-1b04-4f12-95f7-b07116cf7046" />
 
-
-
-
-
-
-
-
-```
 
 ## OUTPUT
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/b889c794-14ff-459c-a478-d899c1d7ef84" />
+
+
 
 
 ## RESULT
@@ -49,19 +47,11 @@ To write and execute an Assembly language program for finding the cube of a give
 4. The output cube value is stored in a memory location.
 
 ## PROGRAM
-```
-
-
-
-
-
-
-
-
-```
+<img width="432" height="591" alt="image" src="https://github.com/user-attachments/assets/c52bf5ca-5739-4cfc-ae86-329bebc56d31" />
 
 
 ## OUTPUT
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/21ae5ce8-11b0-46a9-82f7-2e27577b338e" />
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
